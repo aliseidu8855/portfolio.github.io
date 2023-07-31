@@ -690,6 +690,7 @@
     .timeline {
       grid-template-columns: 1fr;
       padding-bottom: 6rem;
+      margin-left: 0;
     }
     .about-stats .progress-bars {
       grid-template-columns: 1fr;
