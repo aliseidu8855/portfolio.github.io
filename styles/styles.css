@@ -674,6 +674,7 @@ section {
   .about-container {
     grid-template-columns: 1fr;
     margin-left: 0;
+    margin-right: 0;
   }
   .about-container .right-about {
     grid-template-columns: 1fr;
@@ -686,12 +687,18 @@ section {
     padding-left: 0;
   }
   .about-stats {
-    margin-left: 60px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .stat-title {
+    margin-left: 0;
+    margin-right: 0;
   }
   .timeline {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
     margin-left: 0;
+    margin-right: 0;
   }
   .about-stats .progress-bars {
     grid-template-columns: 1fr;
@@ -702,6 +709,8 @@ section {
   }
   .contact-content-con {
     flex-direction: column;
+    margin-left: 0;
+    margin-right: 0;
   }
   .contact-content-con .right-contact {
     margin-left: 0;
