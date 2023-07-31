@@ -462,7 +462,7 @@ section {
 }
 .timeline .timeline-item span {
   font-size: 1.5rem;
-  color: var(--color-grey6);
+  color: var( --color-grey1);
 }
 
 /*Contact Info*/
